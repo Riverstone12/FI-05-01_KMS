@@ -1,18 +1,18 @@
 # Portfolio - MinSeok Kang
 
-## 🚀 About Me
+##  About Me
 
-- 🎯 **관심 분야** : RTL & FPGA Design, SoC 검증, Physical Design, DFT
-- 🔧 **경험 분야** : Verilog RTL 설계, FPGA 실보드 디버깅, SystemVerilog 기반 검증, 28nm ASIC 구현
+-  **관심 분야** : RTL & FPGA Design, SoC 검증, Physical Design, DFT
+-  **경험 분야** : Verilog RTL 설계, FPGA 실보드 디버깅, SystemVerilog 기반 검증, 28nm ASIC 구현
 
-## 🎓 학력
+##  학력
 
 - **광운대학교 전자공학과** (본전공)
 - **광운대학교 인공지능반도체공학** (연계전공)
 - **학점** : 3.79 / 4.5
 - **재학 기간** : 2019.03 ~ 2025.02 졸업
 
-## 🛠️ Skill
+##  Skill
 
 - **Languages**  
   ![Verilog](https://img.shields.io/badge/Verilog-24547A?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-345B90?style=flat-square) ![Tcl](https://img.shields.io/badge/Tcl-79529C?style=flat-square) ![C](https://img.shields.io/badge/C-375A7F?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-C45B28?style=flat-square)
@@ -23,7 +23,7 @@
 - **Operating Systems**  
   ![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-388044?style=flat-square)
 
-## 🥇 수상
+##  수상
 
 ### 한국반도체아카데미 원장상
 
@@ -34,7 +34,7 @@
   - **클록 핀 배치 개선** : 배치 결과에서 클록 핀과 관련 회로 사이의 거리를 확인하고 핀 위치를 조정해 `clk_sys` skew를 30 ps에서 6 ps로 감소
   - **팀 설계 결과** : 코어 크기 5개 조건의 배치 밀도를 비교해 구현 조건을 선정하고, 최종 칩 면적을 기준 설계 대비 약 47.6% 축소
 
-## 💻 경험 / 교육
+##  경험 / 교육
 
 ### 한국팹리스산업협회(KFIA) 팹리스 점프업 일경험 프로그램 5기
 
@@ -100,7 +100,7 @@
 - **이상 후보 탐색** : 웨이퍼 좌표별 데이터를 정리하고 Isolation Forest의 이상치 비율 설정을 0.05에서 0.035로 조정해 검출 후보의 분포를 비교
 - **수율 분석** : 전기적 특성 데이터(Vth, Idsat, Idoff)와 BIN2 수율 데이터를 병합. Random Forest 분류 및 회귀 모델로 수율과 관련된 변수의 중요도를 비교
 
-## 📂 프로젝트
+##  프로젝트
 
 ### 28nm ASIC RTL-to-GDS 구현
 
@@ -142,14 +142,14 @@
 - **조건 비교** : 초기 전극 간격을 **100 nm**로 설정하고 바이어스 전압별 주파수 응답을 비교. 전극 간격이 50 nm를 초과하는 조건에서 가속도에 대한 응답의 선형성을 평가
 - **담당 및 결과** : 팀원이 같은 조건에서 계산을 재현할 수 있도록 MATLAB 코드 템플릿과 계산 순서도를 작성. 최종 발표에서 **13 V 조건의 선형성 오차를 284.8 ppm**으로 보고
 
-## 📜 자격증
+##  자격증
 
 - **OPIc IH (Intermediate High)** | 2026.05
 - **데이터분석 준전문가 (ADsP)** | 한국데이터산업진흥원 | 2025.09
 - **컴퓨터활용능력 2급** | 대한상공회의소 | 2022.02
 - **자동차운전면허 2종 보통** | 2020.04
 
-## 📫 Contact
+##  Contact
 
 - **GitHub** : [Riverstone12](https://github.com/Riverstone12)
 - **Phone** : 010-3780-4815
