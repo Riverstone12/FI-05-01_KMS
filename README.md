@@ -1,4 +1,4 @@
-# 👋 파형과 타이밍 리포트에서 회로의 동작을 확인하는 엔지니어 강민석입니다.
+# Portfolio - MinSeok Kang
 
 ## 🚀 About Me
 
